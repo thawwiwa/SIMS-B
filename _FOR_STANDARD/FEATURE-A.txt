@@ -1,5 +1,4 @@
 #START
  - FEATURE-A V 1.01
  - FEATURE-A*
- - #TEST
  - #TEST 
